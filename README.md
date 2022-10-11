@@ -14,4 +14,5 @@ bash Anaconda3-5.0.1-Linux-x86_64.sh
 
 ## Update spyder and Anaconda on Windows (not very helpful)
 conda update anaconda
+
 conda update spyder
